@@ -258,8 +258,8 @@ function render(): void {
   app.innerHTML = `
     <header class="masthead">
       <div class="mark">
-        <h1>Feather Touch</h1>
-        <p>A typing trainer · 10 minutes a day</p>
+        <h1>Feather Touch as Typing trainer</h1>
+        <p>10 minutes a day, eyes on the screen</p>
       </div>
       <p class="rule">Eyes up · home row · accuracy first</p>
     </header>

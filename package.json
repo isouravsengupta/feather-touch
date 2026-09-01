@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Feather Touch — a 10-minute daily typing trainer.",
+  "description": "Feather Touch as Typing trainer — 10 minutes a day.",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

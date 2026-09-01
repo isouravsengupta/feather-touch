@@ -1,6 +1,6 @@
-# Feather Touch
+# Feather Touch as Typing trainer
 
-A typing trainer. Ten minutes a day, eyes on the screen, until your fingers know the keyboard.
+Ten minutes a day, eyes on the screen, until your fingers know the keyboard.
 
 World-average adult speed is about **40 WPM at ~95% accuracy without looking**. At 10 focused minutes a day that is usually **4–8 weeks**.
 
